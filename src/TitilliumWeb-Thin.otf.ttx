@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="OTTO" ttLibVersion="2.4">
+  <GlyphOrder src="TitilliumWeb-Thin.otf.GlyphOrder.ttx"/>
+  <head src="TitilliumWeb-Thin.otf._h_e_a_d.ttx"/>
+  <hhea src="TitilliumWeb-Thin.otf._h_h_e_a.ttx"/>
+  <maxp src="TitilliumWeb-Thin.otf._m_a_x_p.ttx"/>
+  <OS_2 src="TitilliumWeb-Thin.otf.O_S_2f_2.ttx"/>
+  <name src="TitilliumWeb-Thin.otf._n_a_m_e.ttx"/>
+  <cmap src="TitilliumWeb-Thin.otf._c_m_a_p.ttx"/>
+  <post src="TitilliumWeb-Thin.otf._p_o_s_t.ttx"/>
+  <CFF src="TitilliumWeb-Thin.otf.C_F_F_.ttx"/>
+  <GPOS src="TitilliumWeb-Thin.otf.G_P_O_S_.ttx"/>
+  <GSUB src="TitilliumWeb-Thin.otf.G_S_U_B_.ttx"/>
+  <hmtx src="TitilliumWeb-Thin.otf._h_m_t_x.ttx"/>
+</ttFont>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <hhea>
+    <tableVersion value="1.0"/>
+    <ascent value="1133"/>
+    <descent value="-388"/>
+    <lineGap value="0"/>
+    <advanceWidthMax value="1094"/>
+    <minLeftSideBearing value="-154"/>
+    <minRightSideBearing value="-322"/>
+    <xMaxExtent value="1115"/>
+    <caretSlopeRise value="1000"/>
+    <caretSlopeRun value="231"/>
+    <caretOffset value="-1"/>
+    <reserved0 value="0"/>
+    <reserved1 value="0"/>
+    <reserved2 value="0"/>
+    <reserved3 value="0"/>
+    <metricDataFormat value="0"/>
+    <numberOfHMetrics value="455"/>
+  </hhea>
+
+</ttFont>
