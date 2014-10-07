@@ -1,0 +1,15 @@
+commit: HEAD
+process_files: [TitilliumWeb-Regular.ttf.ttx, TitilliumWeb-Italic.ttf.ttx, TitilliumWeb-SemiBold.ttf.ttx,
+  TitilliumWeb-ExtraLightItalic.ttf.ttx, TitilliumWeb-Light.ttf.ttx, TitilliumWeb-Bold.ttf.ttx,
+  TitilliumWeb-BoldItalic.ttf.ttx, TitilliumWeb-LightItalic.ttf.ttx, TitilliumWeb-Black.ttf.ttx,
+  TitilliumWeb-SemiBoldItalic.ttf.ttx, TitilliumWeb-ExtraLight.ttf.ttx, src/TitilliumWeb-SemiBold.otf.ttx,
+  src/TitilliumWeb-Bold.otf.ttx, src/TitilliumWeb-Black.otf.ttx, src/TitilliumWeb-LightItalic.otf.ttx,
+  src/TitilliumWeb-Light.otf.ttx, src/TitilliumWeb-BoldItalic.otf.ttx, src/TitilliumWeb-ThinItalic.otf.ttx,
+  src/TitilliumWeb-Regular.otf.ttx, src/TitilliumWeb-SemiBoldItalic.otf.ttx, src/TitilliumWeb-Italic.otf.ttx,
+  src/TitilliumWeb-Thin.otf.ttx, src/TitilliumWeb-Regular-TTF.sfd, src/TitilliumWeb-BoldItalic-TTF.sfd,
+  src/TitilliumWeb-Italic-TTF.sfd, src/TitilliumWeb-SemiBold-TTF.sfd, src/TitilliumWeb-SemiBoldItalic-TTF.sfd,
+  src/TitilliumWeb-Thin-TTF.sfd, src/TitilliumWeb-LightItalic-TTF.sfd, src/TitilliumWeb-Bold-TTF.sfd,
+  src/TitilliumWeb-Light-TTF.sfd, src/TitilliumWeb-Black-TTF.sfd, src/TitilliumWeb-ThinItalic-TTF.sfd]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
